@@ -1,0 +1,5 @@
+# Observations & Analysis
+
+1. The Drug Capomulin: It is observed that the drug Capomulin is the most effective of all the drugs. As the day's progressed it was observed that this drug decreased the tumor volume, the metastatic spread to other sites during the course of the treatment was very low compared to the other drugs and the survival rate was the highest.
+
+2. The Drug Ketapril: It is observed that the drug Ketapril was the least effective among all the drugs. As the day's progressed the tumor volume increased during the treatment. The metastatic spread to the other sites during the course of the treatment was very high. The survival rate of the mice was also observed to be low with the use of this drug.

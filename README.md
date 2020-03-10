@@ -35,4 +35,6 @@ Tumor Change Over 45 Day Treatment:
 
 Results:
 
+Tumor Response to Treatment:
+![Tumor Response] (https://github.com/LolitaDias/Matplotlib-Pharmaceutical-Treatment-Result-Analysis/blob/master/treatment.png)
 

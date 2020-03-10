@@ -6,7 +6,7 @@ What good is data without a good plot to tell the story?
 
 
 
-1. Create a new repository for this project called `matplotlib-challenge`. **Do not add this homework to an existing repository**.
+
 
 2. Clone the new repository to your computer.
 

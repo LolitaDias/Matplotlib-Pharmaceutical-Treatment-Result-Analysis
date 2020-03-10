@@ -36,5 +36,6 @@ Tumor Change Over 45 Day Treatment:
 Results:
 
 Tumor Response to Treatment:
-![Tumor Response] (Images/treatment.png)
+
+![Tumor_Response](Images/treatment.png)
 

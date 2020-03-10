@@ -1,6 +1,4 @@
-# Matplotlib Homework - The Power of Plots
-
-## Background
+# Matplotlib Homework - Pharmaceutical-Treatment-Result-Analysis
 
 What good is data without a good plot to tell the story?
 

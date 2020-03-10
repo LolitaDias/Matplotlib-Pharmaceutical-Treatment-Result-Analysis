@@ -4,7 +4,7 @@ What good is data without a good plot to tell the story?
 
 
 
-### Before You Begin
+
 
 1. Create a new repository for this project called `matplotlib-challenge`. **Do not add this homework to an existing repository**.
 

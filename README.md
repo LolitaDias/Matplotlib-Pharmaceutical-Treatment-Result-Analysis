@@ -16,7 +16,7 @@ What good is data without a good plot to tell the story?
 
 
 
-## Pymaceuticals Instructions
+
 
 ![Laboratory](Images/Laboratory.jpg)
 

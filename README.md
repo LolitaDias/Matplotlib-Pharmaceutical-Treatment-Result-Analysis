@@ -14,7 +14,7 @@ What good is data without a good plot to tell the story?
 
 
 
-5. Push the above changes to GitHub or GitLab.
+
 
 ## Pymaceuticals Instructions
 

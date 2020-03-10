@@ -10,7 +10,7 @@ What good is data without a good plot to tell the story?
 
 
 
-3. Inside your local git repository, create a directory for the assignment **Pymaceuticals**.
+
 
 4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
 

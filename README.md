@@ -8,7 +8,7 @@ What good is data without a good plot to tell the story?
 
 
 
-2. Clone the new repository to your computer.
+
 
 3. Inside your local git repository, create a directory for the assignment **Pymaceuticals**.
 
